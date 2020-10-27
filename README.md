@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96ff85a9-2072-489c-aceb-fdb97af4b2f0/deploy-status)](https://app.netlify.com/sites/rpanel/deploys)
 
 ## Installation
 
